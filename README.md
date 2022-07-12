@@ -1,5 +1,5 @@
 # Mountain-Generator
-this project proceduraly generates mountain ranges with perlin noise, each mountain range consists of multiple mesh chunks
+this project proceduraly generates mountain ranges with perlin noise, each mountain range consists of multiple mesh chunks. Peaks of generated mountain range are highlighted with peak indicators
 
 Mountain Object must contain these scripts:
   - MapGenerator
